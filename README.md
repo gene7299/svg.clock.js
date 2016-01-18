@@ -17,3 +17,7 @@ var clock = draw.clock('100%')
 ## Dependencies
 - [svg.js](https://github.com/wout/svg.js)
 - [svg.easing.js](https://github.com/wout/svg.easing.js)
+
+
+## Live Demo
+http://feed.droppages.com/clock/index.html
